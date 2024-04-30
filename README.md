@@ -1,2 +1,2 @@
 # Chipper
-Chipper is a Discord bot made for the CU Cyber Club.
+Chipper, not Chip. Chipper is a Discord bot made for the CU Cyber Club.
